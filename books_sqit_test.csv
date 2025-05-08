@@ -1,0 +1,25 @@
+ISBN-13,Book_ID,Title,Author,Genre,Amount,Publisher,Year,Language,Country,Price($),Borrowed,ROI
+9781401245177,C1,Final Crisis,"Morrison, Grant",comic,1,DC Comics,2014,English,America,14.99,1,0.0667
+9781401294052,C2,Batman: The Killing Joke Deluxe,"Moore, Alan",comic,4,DC Comics,2019,English,America,12.97,5,0.2313
+9781401233389,C3,Flashpoint,"Johns, Geoff",comic,1,DC Comics,2012,English,America,11.99,8,0.5004
+9781779516343,C4,Batman: Earth One Vol. 2,"Johns, Geoff",comic,1,DC Comics,2016,English,America,12.6,11,0.2381
+9781563897504,C5,Crisis on Infinite Earths,"Wolfman, Marv",comic,1,DC Comics,2001,English,America,21.99,12,0.2274
+9781401224691,C6,Superman: Earth One,"Straczynski, J. Michael",comic,5,DC Comics,2013,Mandarin,China,14.99,12,0.2668
+9781401291372,C7,Superman: Year One,"Miller, Frank",comic,2,DC Comics,2019,Mandarin,China,20.19,23,0.0991
+9781401246983,C8,Justice League Vol. 3: Throne of Atlantis (The New 52),"Johns, Geoff",comic,3,DC Comics,2014,Mandarin,China,15.67,10,0.3191
+9781401237653,C9,Justice League Vol. 2: The Villain's Journey ,"Johns, Geoff",comic,3,DC Comics,2013,Mandarin,China,16.99,16,0.0589
+9781401241827,C10,The Death of Superman,"Jurgens, Dan",comic,1,DC Comics,2013,Mandarin,China,14.99,20,0.467
+9781779511973,C11,The Other History of the DC Universe,"Ridley, John",comic,2,DC Comics,2021,Mandarin,China,19.99,4,0.2001
+9781401232597,C12,Batman: The Long Halloween,"Loeb, Jeph",comic,1,DC Comics,2011,Mandarin,China,23.99,21,0.2918
+9781449462147,C13,The Batman Files,"Manning, Matthew",comic,4,DC Comics,2014,Mandarin,China,30.52,3,0.0983
+9780262510875,D1,Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),"Abelson, Harold; Sussman, Gerald Jay",computer_science,1,The MIT Press,1996,Mandarin,China,49.84,5,0.1003
+9780596808327,D2,"Making Software: What Really Works, and Why We Believe It","Oram, Andy; Wilson, Greg",computer_science,4,O'Reilly Media,2010,Malay,Malaysia,30.35,25,0.0988
+9780262046305,D3,"Introduction to Algorithms, fourth edition","Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald L.; Stein, Clifford",computer_science,5,The MIT Press,2022,Malay,Malaysia,92.69,2,0.0216
+9780130369970,D4,Data Structures Using C and C++ (2nd Edition),"Langsam, Yedidyah; Augenstein, Moshe J.; Tenenbaum, Aaron M.",computer_science,5,Pearson,1995,Malay,Malaysia,140.28,5,0.0356
+9780070629554,D5,Principles of Communication Systems,"Taub, Herbert; Donald L. Schilling",computer_science,2,McGraw-Hill College,1986,Malay,Malaysia,182.55,2,0.011
+9789391392994,D6,Let Us C 18th Edition: Authentic guide to C programming language,"Kanetkar, Yashwant",computer_science,2,BPB Publications,2021,Malay,Malaysia,14.29,6,0.4199
+9788120345317,D7,"Power Electronics: Devices, Circuits And Applications 4Th Edition","Rashid, Muhammad",computer_science,2,Pearson India,2017,Tamil,Malaysia,37.59,3,0.0798
+9780471226932,D8,"Power Electronics: Converters, Applications, and Design","Mohan, Ned",computer_science,4,Wiley,2002,Tamil,Malaysia,124.99,5,0.04
+9789388176378,D9,Understanding Pointers in C & C++: Fully working Examples and Applications of Pointers,"Kanetkar, Yashwant",computer_science,2,BPB Publications,2019,Tamil,Malaysia,17.59,1,0.0569
+9780596001087,D10,The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary,"Raymond, Eric",computer_science,3,O'Reilly Media,2001,Tamil,Malaysia,16.39,2,0.122
+9780078028168,D11,Design With Operational Amplifiers And Analog Integrated Circuits (McGraw-Hill Series in Electrical and Computer Engineering) 4th Edition,"Franco, Sergio",computer_science,3,McGraw Hill,2014,Tamil,Malaysia,239,6,0.0251
