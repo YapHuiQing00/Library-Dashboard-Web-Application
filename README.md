@@ -26,7 +26,7 @@ The project was created as part of our academic coursework to apply real-world d
 - Inputs include ISBN-13, title, author, etc.
 - Requests can be tracked by librarian / admins
 
-## Team members
+## Team members (SQIT3073 Business Analytic Programming)
 - Eng Jinq Kae
 - Yap Li Teng
 - Yap Hui Qing
