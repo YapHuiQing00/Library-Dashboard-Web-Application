@@ -1,6 +1,6 @@
 # Library-Dashboard-Web-Application
 
-The project is a web-based dashboard built for managing and analyzing library data. The application developed as school projects to provide interactive visualizations and insights into library operations such as book availability, borrowing trends, user activity, and so forth.
+The project is a web-based dashboard built for managing and analyzing library data. The application developed as school projects to provide interactive visualizations and insights into library operations such as book availability, user activity, and so forth.
 
 ## Purpose
 The project was created as part of our academic coursework to apply real-world data visualization and dashboard development skills in Python.
